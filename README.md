@@ -15,9 +15,12 @@ Skills: Java / Spring / Python / AWS / Maven / Zabbix / Jasper Reports / Oracle 
 - 😄 Pronouns: It's Abhi-Shek niether Avi-shek nor Abhi-sheikh or anything else 😒 
 - ⚡ Fun fact: I want to work and learn on too many things at a time that it becomes beyond my capabilities sometimes... 😅 
 
-
+### You can find in me in the web 🌍
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/abhisheksarkar30)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/abhisheksarkar30/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/abhisheksarkar30)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/abhisheksarkar30/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/abhisarkar30)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='40'>](https://abhisheksarkar30.github.io)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/wix.svg' alt='wix' height='40'>](https://abhisheksarkar30.wixsite.com/mystory)  
 
+<br/>
+
+### My Github Badges
 <a href='https://archiveprogram.github.com/'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/acbadge.gif' width='40' height='40'></a> <a href='https://docs.github.com/en/developers'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/devbadge.gif' width='40' height='40'></a> 
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=abhisheksarkar30)](https://github.com/ryo-ma/github-profile-trophy)
@@ -27,3 +30,9 @@ Skills: Java / Spring / Python / AWS / Maven / Zabbix / Jasper Reports / Oracle 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=abhisheksarkar30)](https://github.com/abhisheksarkar30/github-readme-stats)
 
 ![Profile views](https://gpvc.arturio.dev/abhisheksarkar30)  
+
+---
+
+Let's connect 👨‍💻 and forge the future together.😁✌
+
+**Check the Repositories and don't forget to give a star.** 👇
