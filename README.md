@@ -4,7 +4,7 @@
 
 I am a full-time geek, always keen to work on automating processes and building utility applications for easing out monotonous daily works. Keep watching for more details... Till then you can view my repositories and will be glad to accept any feedback or suggestions for improvement or any enhancements!
 
-Skills: Java / Spring / Python / AWS / Maven / Zabbix
+Skills: Java / Spring / Python / AWS / Maven / Zabbix / Jasper Reports / Oracle PL/SQL
 
 - 🔭 I’m currently working on minimally on this page, mainly on python based stock market app, e-commerce project on microservices, etc 🕺 
 - 🌱 I’m currently learning Microservices with Spring Boot, MongoDB, etc 🤩 
