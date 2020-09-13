@@ -38,9 +38,7 @@ Skills: Java / Spring / Python / AWS / Maven / Zabbix / Jasper Reports / Oracle 
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=abhisheksarkar30&show_icons=true)  
 
----
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=abhisheksarkar30)](https://github.com/abhisheksarkar30/github-readme-stats)
+Check for a detailed stats here 👉🏻 [**@Sourcerer**](https://sourcerer.io/abhisheksarkar30)
 
 ---
 
