@@ -6,8 +6,6 @@ I am a full-time geek, always keen to work on automating processes and building 
 
 ---
 
-Skills: Java / Spring / Python / AWS / Maven / Zabbix / Jasper Reports / Oracle PL/SQL
-
 ### Tech & Tools Preference
 
 <img src="http://img.shields.io/badge/-Spring-6DB33F?style=flat&logo=Spring&logoColor=FFFFFF"> <img src="http://img.shields.io/badge/-Oracle PL/SQL-F29111?style=flat&logo=oracle&logoColor=FFFFFF"> 
@@ -19,8 +17,8 @@ Skills: Java / Spring / Python / AWS / Maven / Zabbix / Jasper Reports / Oracle 
 <img src="http://img.shields.io/badge/-Maven-C71A36?style=flat&logo=Apache%20Maven&logoColor=FFFFFF">
 <img src="http://img.shields.io/badge/-ActiveMQ-D22128?style=flat&logo=Apache&logoColor=FFFFFF">
 <img src="http://img.shields.io/badge/-AWS-430098?style=flat&logo=Amazon%20AWS&logoColor=white">
-<img src="https://img.shields.io/badge/-HTML-E34F26?style=flat&logo=html5&logoColor=white">
-<img src="https://img.shields.io/badge/-CSS-1572B6?style=flat&logo=css3&logoColor=white">
+<img src="http://img.shields.io/badge/-HTML-E34F26?style=flat&logo=html5&logoColor=white">
+<img src="http://img.shields.io/badge/-CSS-1572B6?style=flat&logo=css3&logoColor=white">
 <img src="http://img.shields.io/badge/-PowerShell-5391FE?style=flat&logo=PowerShell&logoColor=white">
 <img src="http://img.shields.io/badge/-Shell-FFD500?style=flat&logo=Shell&logoColor=white">
 <img src="http://img.shields.io/badge/-Arduino-00979D?style=flat&logo=Arduino&logoColor=white">
