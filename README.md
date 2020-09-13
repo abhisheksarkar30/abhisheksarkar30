@@ -1,6 +1,9 @@
 ### Hi there 👋, this is Abhishek Sarkar!
 #### A Software Engineer by passion more than just by profession...
-![A Software Engineer by passion more than just by profession...](https://abhisheksarkar30github.io/abhisheksarkar30/images/banner.png)
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/abhisheksarkar30/abhisheksarkar30/master/header-banner.png" width="100%" title="Intro Card" alt="Intro Card">
+</p>
 
 I am a full-time geek, always keen to work on automating processes and building utility applications for easing out monotonous daily works. Keep watching for more details... Till then you can view my repositories and will be glad to accept any feedback or suggestions for improvement or any enhancements!
 
