@@ -1,16 +1,29 @@
-### Hi there 👋
+### Hi there 👋, this is Abhishek Sarkar!
+#### A Software Engineer by passion more than just by profession...
+![A Software Engineer by passion more than just by profession...](https://abhisheksarkar30github.io/abhisheksarkar30/images/banner.png)
 
-<!--
-**abhisheksarkar30/abhisheksarkar30** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am a full-time geek, always keen to work on automating processes and building utility applications for easing out monotonous daily works. Keep watching for more details... Till then you can view my repositories and will be glad to accept any feedback or suggestions for improvement or any enhancements!
 
-Here are some ideas to get you started:
+Skills: Java / Spring / Python / AWS / Maven / Zabbix
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔭 I’m currently working on minimally on this page, mainly on python based stock market app, e-commerce project on microservices, etc 🕺 
+- 🌱 I’m currently learning Microservices with Spring Boot, MongoDB, etc 🤩 
+- 👯 I’m looking to collaborate on my project on gite tool, i.e. extra command set for Git Command-Line 🙄 
+- 🤔 I’m looking for help with Assistance on my current project on microservices 🤔 
+- 💬 Ask me about Java 
+- 📫 How to reach me: LinkedIn Profile 
+- 😄 Pronouns: It's Abhi-Shek niether Avi-shek nor Abhi-sheikh or anything else 😒 
+- ⚡ Fun fact: I want to work and learn on too many things at a time that it becomes beyond my capabilities sometimes... 😅 
+
+
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/abhisheksarkar30)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/abhisheksarkar30/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/abhisheksarkar30)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/abhisheksarkar30/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/abhisarkar30)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='40'>](abhisheksarkar30.github.io)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/wix.svg' alt='wix' height='40'>](https://abhisheksarkar30.wixsite.com/mystory)  
+
+<a href='https://archiveprogram.github.com/'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/acbadge.gif' width='40' height='40'></a> <a href='https://docs.github.com/en/developers'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/devbadge.gif' width='40' height='40'></a> 
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=abhisheksarkar30)](https://github.com/ryo-ma/github-profile-trophy)
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=abhisheksarkar30&show_icons=true)  
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=abhisheksarkar30)](https://github.com/abhisheksarkar30/github-readme-stats)
+
+![Profile views](https://gpvc.arturio.dev/abhisheksarkar30)  
